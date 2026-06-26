@@ -1,3 +1,4 @@
+// NLPService.cs - Detects user intent even when worded differently
 namespace CyberGuardAssistant.Services
 {
     // Simulates Natural Language Processing using string matching
