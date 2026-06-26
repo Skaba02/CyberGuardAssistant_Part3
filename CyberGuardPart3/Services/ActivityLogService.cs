@@ -1,3 +1,4 @@
+// ActivityLogService.cs - Records all chatbot actions during the session
 using CyberGuardAssistant.Models;
 
 namespace CyberGuardAssistant.Services
