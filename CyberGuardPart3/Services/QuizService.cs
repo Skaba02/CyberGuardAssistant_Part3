@@ -1,3 +1,4 @@
+// QuizService.cs - Manages the cybersecurity quiz with 12 questions
 using CyberGuardAssistant.Models;
 
 namespace CyberGuardAssistant.Services
