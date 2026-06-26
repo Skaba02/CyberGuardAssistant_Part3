@@ -78,3 +78,8 @@ Bot:  Here is a summary of recent actions:
 
 ## Author
 Created for CyberGuard Assistant — Part 3/POE — 2026
+
+## Version History
+- v1.0 - Part 1: Console chatbot
+- v2.0 - Part 2: GUI version
+- v3.0 - Part 3: Full feature POE edition
