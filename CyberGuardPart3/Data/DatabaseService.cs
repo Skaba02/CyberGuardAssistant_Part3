@@ -1,3 +1,4 @@
+// DatabaseService.cs - Handles all MySQL database operations for task storage
 using MySql.Data.MySqlClient;
 using CyberGuardAssistant.Models;
 
